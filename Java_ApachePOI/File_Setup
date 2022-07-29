@@ -1,0 +1,22 @@
+[21-Jan-22 2:21 PM] Agarwal, Umang (Cognizant)
+https://poi.apache.org/download.html
+
+Launch below url in browser
+https://archive.apache.org/dist/poi/release/bin/poi-bin-3.12-20150511.zip
+Unzip the folder
+Create a new folder poi
+Move all poi jars in poi folder
+Move poi folder in Eclipse libraries folder(make sure that you already have created this folder at project level) Import all poi jars in eclipse project using below steps:
+Select the eclipse project name
+Do right click
+Go to Build Path > Configure Build Path
+Go to Libraries tab
+Select Classpath
+Click Add External JARs
+Import all poi jars from eclipse project location
+Click Apply and Close
+
+
+
+Video Link => https://cognizantonline-my.sharepoint.com/:v:/g/personal/2108002_cognizant_com/ETRKCY6gtcZJlqQbl5MJ0JwB1z4eCckonVFKC-IyUOoT7A
+ 
